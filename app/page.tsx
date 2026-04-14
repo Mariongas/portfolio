@@ -15,7 +15,7 @@ export default function Home(){
         <h2 className="text-3xl font-semibold mb-4">About me</h2>
         <p className="text-gray-400 max-w-2xl">
           I'm a Software Engineer focused on full stack development systems, architecture, security and automation. I was born
-          in Mexico and graduated as a software engineer in the polythecnic University of Pachuca on 2026 
+          in Mexico and graduated as a software engineer in the Polythecnic University of Pachuca on 2026 
         </p>
       </section>
       {/* PROJECTS */}
