@@ -1,6 +1,6 @@
 export default function Home(){
   return(
-    <main className="bg=black text-white min-h-screen p-10">
+    <main className="bg-black text-white min-h-screen p-10">
       {/* Hero */}
       <section className="mb-20">
         <h1 className="text-5xl font-bold mb-4">
